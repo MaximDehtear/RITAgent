@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Premain-Class: com.agent.rit.Extender
+Boot-Class-Path: lib/javassist.jar
+Main-Class: com.agent.rit.Extender
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
